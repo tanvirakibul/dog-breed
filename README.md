@@ -6,8 +6,8 @@ git clone https://github.com/tanvirakibul/dog-breed.git
 Open with Jupyter Notebook / Google Colab
 
 ```sh
-Clone the repository
+- Clone the repository
 git clone https://github.com/tanvirakibul/dog-breed.git
-Open with Jupyter Notebook / Google Colab
+- Open with Jupyter Notebook / Google Colab
 
 ```
